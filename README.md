@@ -75,3 +75,8 @@ This project and dataset are intended for educational and research purposes. Ple
 
 ---
 
+## Dataset
+
+You can download the dataset from:
+- https://www.kaggle.com/datasets/lava18/google-play-store-apps
+
